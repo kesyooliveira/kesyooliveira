@@ -18,7 +18,7 @@ const stack = {
 Sistema completo de gestão para locadora de equipamentos de construção civil (betoneiras, compactadores, containers etc.), construído do zero — da modelagem de domínio ao deploy.
 
 **O que esse projeto demonstra:**
-- 🏗️ Modelagem de domínio a partir de regras de negócio reais (disponibilidade dinâmica, precificação por diária/meia-diária, máquina de estados)
+- 🏗️ Modelagem de domínio a partir de regras de negócio reais
 - 🔒 Autenticação JWT completa com refresh token rotativo e autorização por papéis
 - 🧪 Testes em múltiplas camadas — unitários, com Mockito, e integração com **Testcontainers** (Postgres real, não H2)
 - 🗄️ Schema versionado com **Flyway**, sem `ddl-auto` em produção
