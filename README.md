@@ -25,7 +25,7 @@ Sistema completo de gestão para locadora de equipamentos de construção civil 
 - ⚡ Front-end em **Angular 22** moderno — standalone components, Signals, Reactive Forms com `FormArray`
 - 🔄 Controle de concorrência com lock pessimista para evitar condições de corrida em reservas simultâneas
 
-🔗 [Backend — carmoloc-api](https://github.com/kesyooliveira/carmoloc-api)
+🔗 [Backend — carmoloc-api](https://github.com/kesyooliveira/carmoloc-api-first)
 🔗 [Frontend — carmoloc-front](https://github.com/kesyooliveira/carmoloc-front)
 
 ---
